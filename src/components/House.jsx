@@ -6,7 +6,6 @@ import { SearchMe } from './SearchMe';
 
 const House = () => {
   const ref=useRef()
-  console.log("ho")
 
   return (
     <> 

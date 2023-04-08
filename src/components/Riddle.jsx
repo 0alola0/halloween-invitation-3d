@@ -3,7 +3,6 @@ import Typewriter from "typewriter-effect";
 
 
 const Riddle = () => {
-    console.log("riddle on")
     return (
         <div className="riddle">
           <Typewriter className=""

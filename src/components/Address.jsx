@@ -3,7 +3,6 @@ import Typewriter from "typewriter-effect";
 
 
 const Address = () => {
-    console.log("riddle on")
     return (
         <div className="invite">
           <Typewriter className=""

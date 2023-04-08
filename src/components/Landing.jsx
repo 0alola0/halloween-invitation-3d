@@ -5,7 +5,6 @@ import Riddle from './Riddle';
 
 
 const Landing = () => {
-    console.log("hi")
 
     return (
         <>
